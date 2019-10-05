@@ -1,0 +1,2 @@
+[10-Jul-2018 21:45:09 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/agex8345/public_html/hulu/hulu/koneksi.php on line 11
+[10-Jul-2018 21:45:15 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/agex8345/public_html/hulu/hulu/koneksi.php on line 11
