@@ -110,7 +110,7 @@ while($data = $stmt->fetch(PDO::FETCH_ASSOC)) {
                     <div class="header-nav navbar-collapse collapse justify-content-end" id="navbarNavDropdown">
                         <ul class="nav navbar-nav nav-style">
 						
-						   <li > <a href="index.php">Beranda</a> </li>
+						   <li > <a href="index.php">Berandaasdasdasdasd</a> </li>
 						   
 						   
 						   <li> <a href="nano.php">Nano Ceramic</a> </li>
